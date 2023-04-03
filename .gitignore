@@ -1,0 +1,22 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+/Assets/3DGamekit
+/Assets/Standard Assets
+/Assets/Lowpoly Style
+
+
+# # Visual Studio files
+# *.csproj
+# *.sln
+# *.suo
+# *.user
+# *.userprefs
+
+# Other
+.DS_Store
+Thumbs.db
