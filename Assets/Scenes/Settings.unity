@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 94587911}
   - component: {fileID: 94587914}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: SaveSettingsButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -162,7 +162,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 250, y: -601}
-  m_SizeDelta: {x: 260, y: 240}
+  m_SizeDelta: {x: 270, y: 250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &94587911
 MonoBehaviour:
@@ -207,7 +207,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 94587912}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 94587914}
+        m_TargetAssemblyTypeName: SaveSettingsButton, Assembly-CSharp
+        m_MethodName: SaveSettingsAndReturnToMenu
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &94587912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -255,9 +267,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 94587909}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d87a6e1caa3760b4a8dee26001658f8f, type: 3}
+  m_Script: {fileID: 11500000, guid: d7a4dea7d0c40984983844285d39a87a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  soundSlider: {fileID: 551811214}
+  musicSlider: {fileID: 1321717105}
+  sensitivitySlider: {fileID: 1079588631}
 --- !u!1 &192278497
 GameObject:
   m_ObjectHideFlags: 0
@@ -768,7 +783,7 @@ GameObject:
   - component: {fileID: 551811213}
   - component: {fileID: 551811214}
   m_Layer: 5
-  m_Name: Slider (4)
+  m_Name: SoundSlider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1117,6 +1132,7 @@ GameObject:
   - component: {fileID: 799867965}
   - component: {fileID: 799867964}
   - component: {fileID: 799867963}
+  - component: {fileID: 799867966}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -1188,7 +1204,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 799867964}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 799867966}
+        m_TargetAssemblyTypeName: SceneSwitcher, Assembly-CSharp
+        m_MethodName: SwitchScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Menu
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &799867964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1227,6 +1255,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 799867961}
   m_CullTransparentMesh: 1
+--- !u!114 &799867966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 799867961}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf3270e37cacd442837ad8cac6c5c4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &866179435
 GameObject:
   m_ObjectHideFlags: 0
@@ -1275,7 +1315,7 @@ GameObject:
   - component: {fileID: 1079588630}
   - component: {fileID: 1079588631}
   m_Layer: 5
-  m_Name: Slider (2)
+  m_Name: SensetivitySlider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1366,7 +1406,7 @@ GameObject:
   - component: {fileID: 1321717104}
   - component: {fileID: 1321717105}
   m_Layer: 5
-  m_Name: Slider (3)
+  m_Name: MusicSlider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
