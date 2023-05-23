@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 5e47271a189adb84abc4634d4c6c79e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 826782760557458071
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_0
+  - first:
+      213: -7733982289844940702
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_1
+  - first:
+      213: 8351838345138527920
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_2
+  - first:
+      213: 7204469731460946726
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_3
+  - first:
+      213: -939277632862816429
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_4
+  - first:
+      213: -1284750896537839872
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_5
+  - first:
+      213: 5563578940968284564
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_6
+  - first:
+      213: 1539253913130896992
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_7
+  - first:
+      213: 3551229905975416086
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_8
+  - first:
+      213: -7609259457180535194
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_9
+  - first:
+      213: -3131010792660577194
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_10
+  - first:
+      213: -5420549051722884611
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_11
+  - first:
+      213: 5303151755830069365
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_12
+  - first:
+      213: -5771930828660988709
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_13
+  - first:
+      213: 5876279617493925473
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_14
+  - first:
+      213: -7296056141319475788
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_15
+  - first:
+      213: -3259482257190452679
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_16
+  - first:
+      213: -5324590185569618554
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_17
+  - first:
+      213: -2743849913060921291
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_18
+  - first:
+      213: 6765001750778208103
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_19
+  - first:
+      213: 2446239900959626681
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_20
+  - first:
+      213: 2314152364158610427
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_21
+  - first:
+      213: 1107637090891076129
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_22
+  - first:
+      213: -3707888756944614413
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_23
+  - first:
+      213: -8317650723232053601
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_24
+  - first:
+      213: 4620583684971282717
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_25
+  - first:
+      213: -5069740748565886450
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_26
+  - first:
+      213: -6262755499588810814
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_27
+  - first:
+      213: 7676486840804140381
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_28
+  - first:
+      213: 7691463158619878635
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_29
+  - first:
+      213: 8282330329191916966
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_30
+  - first:
+      213: 1427398316168431238
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_31
+  - first:
+      213: 3333026454570026039
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_32
+  - first:
+      213: -977366656010542073
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_33
+  - first:
+      213: 543756843398430682
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_34
+  - first:
+      213: -6628723682029656427
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_35
+  - first:
+      213: -3807600423767870493
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_36
+  - first:
+      213: -3813327144516210768
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_37
+  - first:
+      213: 6755846833756587822
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_38
+  - first:
+      213: 4695836645532315783
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_39
+  - first:
+      213: 557360108716702182
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_40
+  - first:
+      213: 8222706404192151527
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_41
+  - first:
+      213: -6920883809385557595
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_42
+  - first:
+      213: -7139016801414130901
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_43
+  - first:
+      213: -3606263935965337015
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_44
+  - first:
+      213: 2695441786224026599
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_45
+  - first:
+      213: 5037153650356924123
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_46
+  - first:
+      213: 4226317898802797924
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_47
+  - first:
+      213: -960526158905150157
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_48
+  - first:
+      213: -5650972455681556216
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_49
+  - first:
+      213: -6689238994414149915
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_50
+  - first:
+      213: -7096852985475251164
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_51
+  - first:
+      213: 8158222688276994005
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_52
+  - first:
+      213: 4945192865163695268
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_53
+  - first:
+      213: 3141941529886785602
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_54
+  - first:
+      213: 6857129507409448467
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_55
+  - first:
+      213: 5032033988796344464
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_56
+  - first:
+      213: -3026781550174096516
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_57
+  - first:
+      213: -4672414703041581566
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_58
+  - first:
+      213: -9132604377860689086
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_59
+  - first:
+      213: -3453248405525745188
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_60
+  - first:
+      213: -2570968428028321426
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_61
+  - first:
+      213: 3461890459717449529
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_62
+  - first:
+      213: -6731240519341420052
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_63
+  - first:
+      213: 258700905964108828
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_64
+  - first:
+      213: 8366019268773064881
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_65
+  - first:
+      213: 5106108376270688278
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_66
+  - first:
+      213: -5880745263983918865
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_67
+  - first:
+      213: 2541679406576792663
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_68
+  - first:
+      213: -4345655114748444068
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_69
+  - first:
+      213: -1851571384289554183
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_70
+  - first:
+      213: -3525711139422810080
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_71
+  - first:
+      213: 3484575344697706802
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_72
+  - first:
+      213: 5068592838394691543
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_73
+  - first:
+      213: -8624956613671139309
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_74
+  - first:
+      213: 3002901970726448679
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_75
+  - first:
+      213: 8027013502463891500
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_76
+  - first:
+      213: 7087294051573002097
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_77
+  - first:
+      213: 552658422851474421
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_78
+  - first:
+      213: -8649723009081178086
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_79
+  - first:
+      213: 5736047740375489448
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_80
+  - first:
+      213: 1032898596971714550
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_81
+  - first:
+      213: -1671320384315426193
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_82
+  - first:
+      213: 4592563503176463406
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_83
+  - first:
+      213: 2576356414991570111
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_84
+  - first:
+      213: -1080981350242244091
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_85
+  - first:
+      213: 5388406494155259731
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_86
+  - first:
+      213: 3692201937278219747
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_87
+  - first:
+      213: -1079012814822201081
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_88
+  - first:
+      213: -8753471264643744258
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_89
+  - first:
+      213: 4545841533932242091
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_90
+  - first:
+      213: 6814649764517194350
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_91
+  - first:
+      213: 7892593833510750489
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_92
+  - first:
+      213: 32252783517805741
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_93
+  - first:
+      213: -7480814257925284151
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_94
+  - first:
+      213: 904323302452987466
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_95
+  - first:
+      213: -5495615828944027422
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_96
+  - first:
+      213: -606346072648785621
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_97
+  - first:
+      213: -4592923557880771985
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_98
+  - first:
+      213: 3621672023893288084
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_99
+  - first:
+      213: -4380130882709868652
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_100
+  - first:
+      213: -2600948414245283423
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_101
+  - first:
+      213: -4436805508715134338
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_102
+  - first:
+      213: -6066691792456420884
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_103
+  - first:
+      213: -6843427056880297852
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_104
+  - first:
+      213: -5214115978025948076
+    second: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_105
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cee98a5bc1cad44ab0f50fedecbd8f
+      internalID: 787393270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18887756279572f4185cdf3897f151b4
+      internalID: 713737139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dc87080c9c5ca46aa8d80b13d0c580
+      internalID: 1413616602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51266d0d5de1904abf8c4b1cf51863d
+      internalID: -1691835609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc222f25e3bcdb74dad5512bfb1d0402
+      internalID: 27366939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505fe7233e8b2341afad0a83eb59f4e
+      internalID: 1234708607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4f8fe8b369346458db51c4404bd46a
+      internalID: -881152210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a46d94eb71efd54ba2c5c9bde376935
+      internalID: -2130550623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99653564d7c118742b6396489959e0ea
+      internalID: -874136837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e9e7ac082321141914ed3458132830
+      internalID: 1663559483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65a515cae327604eadd14afebc67211
+      internalID: 1457849284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852e1c8c80557f4ab4ec6234966eccb
+      internalID: -1737307893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c109194928c0324cac0560212bd4f65
+      internalID: -1725676532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53186e00d8f0141bb13761d611a400
+      internalID: 1348291142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dfc1d698962434db3f7a83dc010ae2
+      internalID: -1684428269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f4195dcdda024b8ba898b3936a378
+      internalID: 2140291473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0551d21e7e51d0a4e9b784cb02bcbbac
+      internalID: -798390223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf07fd12d282554ca4fa5e36b3a2160
+      internalID: 107933214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f32ec18a9506149b521b9fdc23c62b
+      internalID: -2080590134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62364d572bebe5b43a14e4d3d1c8d844
+      internalID: -328311970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2bf5e8478fc6644b4cae914d6e713e
+      internalID: -670654075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4322dc140491b2b44bc8e4354f872a47
+      internalID: 1001196884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df316d6d3c72334586752104081ee26
+      internalID: 1415667544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21135422e587da43b940fd356fe0716
+      internalID: -609223602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf435511c6e61354289ac091e78d25cb
+      internalID: -339540913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8734978390c395d4bbc2e474d95de811
+      internalID: 775963187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28151d973684ece47a8d168396608114
+      internalID: -1811886093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdcdc0693231d040be52671d0d08afb
+      internalID: 1202300898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659ac6cc24bc24459818e25fe26be8f
+      internalID: -431102069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15775a63c5cf90a438a5c9b830e7077c
+      internalID: -1961759115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f92738df9c9d04095e511e3ce89ea2
+      internalID: 1493230518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4997b88603dd98547a014c5258b015a9
+      internalID: -354697566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceac549d05d31848a94dd503c209cb6
+      internalID: 1569210486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a3971171a592488713ecb30d576fe
+      internalID: 980523960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fd88d9ecfdf6b43a109a6487327a4c
+      internalID: 745394671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8be1f3b2c8094bbb7bb62f331480a
+      internalID: 1310952717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f58f0cb6d31d4b8df6fb502493d08
+      internalID: -2029803074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bf452f312186d41b03e5716e416180
+      internalID: -949719555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9713be489a03dc04bbd24a061cf5389d
+      internalID: 431159482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceaa143c3e032548896776132725d57
+      internalID: 1986024870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72087ae045e33c4c9aefd6fa00c3142
+      internalID: -1985227436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e94b0a6410d9642a7ab69066571298
+      internalID: -2069190103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c14b61b3004c7d4b9b12f65cf96b254
+      internalID: 1014164858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc5daab584e8e4c82387e651005567
+      internalID: 902483456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0405bd2b5c7700748a500d5d4b45413a
+      internalID: 1910378721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f7ad225d6258d4fa6eed52adfd9560
+      internalID: 788370555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758f2990cc47f44a8a782ac57fb34f7
+      internalID: -206449463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f9b1b3013c1444c8d335a8eab854f7
+      internalID: 236501662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8a40d5dd6d29144b7ea3aa41bc93eb
+      internalID: 1390090585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8730742e83bca34f9fe96e22b692603
+      internalID: 792200230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9df71d6e73c4b4baa74cbc9016bc99
+      internalID: 1203794195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_51
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b579ab0997162449f8151ed652e8c4
+      internalID: -1607949601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b077d39c94b580243b0d856a1f029f82
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_0: 787393270
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_1: 713737139
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_10: 1457849284
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_11: -1737307893
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_12: -1725676532
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_13: 1348291142
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_14: -1684428269
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_15: 2140291473
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_16: -798390223
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_17: 107933214
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_18: -2080590134
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_19: -328311970
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_2: 1413616602
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_20: -670654075
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_21: 1001196884
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_22: 1415667544
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_23: -609223602
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_24: -339540913
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_25: 775963187
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_26: -1811886093
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_27: 1202300898
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_28: -431102069
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_29: -1961759115
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_3: -1691835609
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_30: 1493230518
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_31: -354697566
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_32: 1569210486
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_33: 980523960
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_34: 745394671
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_35: 1310952717
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_36: -2029803074
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_37: -949719555
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_38: 431159482
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_39: 1986024870
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_4: 27366939
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_40: -1985227436
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_41: -2069190103
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_42: 1014164858
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_43: 902483456
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_44: 1910378721
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_45: 788370555
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_46: -206449463
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_47: 236501662
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_48: 1390090585
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_49: 792200230
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_5: 1234708607
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_50: 1203794195
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_51: -1607949601
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_6: -881152210
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_7: -2130550623
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_8: -874136837
+      favpng_fireball-cinnamon-whisky-opengameart-org-sprite-2d-computer-graphics-animation_9: 1663559483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

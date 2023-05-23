@@ -15,7 +15,7 @@ public class FireController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
 
         // инициализируем начальные параметры огонька
-        transform.localScale = new Vector3(0.5f, 0.5f, 1f); // задаем размер огонька
+        //transform.localScale = new Vector3(0.5f, 0.5f, 1f); // задаем размер огонька
         transform.rotation = Quaternion.Euler(0f, 0f, Random.Range(0f, 360f)); // задаем случайное вращение огонька
     }
 
