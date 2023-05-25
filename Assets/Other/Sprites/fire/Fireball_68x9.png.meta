@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,6 +64,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -1399,69 +1401,68 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fireball_68x9_29: -101782084
-      Fireball_68x9_44: 314049031
+      Fireball_68x9_0: -624400754
       Fireball_68x9_1: -1499653672
-      Fireball_68x9_17: -1252543931
-      Fireball_68x9_25: 1885036571
-      Fireball_68x9_42: -1920696703
-      Fireball_68x9_24: -357323799
-      Fireball_68x9_57: 1669036747
-      Fireball_68x9_53: 1510975141
-      Fireball_68x9_8: 1587062027
-      Fireball_68x9_6: 500433450
-      Fireball_68x9_50: 1095387410
-      Fireball_68x9_41: -2121961962
-      Fireball_68x9_27: 1901448268
-      Fireball_68x9_38: -781867877
-      Fireball_68x9_35: -1163327211
-      Fireball_68x9_4: -1054120684
-      Fireball_68x9_14: -616513223
-      Fireball_68x9_5: 580089649
-      Fireball_68x9_31: -960346614
-      Fireball_68x9_33: -790508898
-      Fireball_68x9_18: -1128087345
-      Fireball_68x9_39: -1377950483
-      Fireball_68x9_43: 2132884060
-      Fireball_68x9_7: 628839529
-      Fireball_68x9_58: -296657779
-      Fireball_68x9_15: 1372333768
-      Fireball_68x9_26: 439514550
+      Fireball_68x9_10: -1819228345
+      Fireball_68x9_11: -314376130
+      Fireball_68x9_12: -95193804
       Fireball_68x9_13: 1551377891
-      Fireball_68x9_40: -361222819
-      Fireball_68x9_52: -952333060
+      Fireball_68x9_14: -616513223
+      Fireball_68x9_15: 1372333768
+      Fireball_68x9_16: -340483157
+      Fireball_68x9_17: -1252543931
+      Fireball_68x9_18: -1128087345
+      Fireball_68x9_19: 2096857447
       Fireball_68x9_2: -5609930
-      Fireball_68x9_56: 1901425854
-      Fireball_68x9_23: 1459498677
-      Fireball_68x9_32: 1652577144
-      Fireball_68x9_36: 12084854
-      Fireball_68x9_49: 1330871300
+      Fireball_68x9_20: 366929893
       Fireball_68x9_21: 1903489175
       Fireball_68x9_22: 571953036
-      Fireball_68x9_30: -2040003890
-      Fireball_68x9_16: -340483157
-      Fireball_68x9_46: -632135005
-      Fireball_68x9_48: -1991947745
-      Fireball_68x9_3: -1222210793
-      Fireball_68x9_34: 1456362611
-      Fireball_68x9_12: -95193804
-      Fireball_68x9_0: -624400754
-      Fireball_68x9_20: 366929893
-      Fireball_68x9_9: 7904265
-      Fireball_68x9_19: 2096857447
-      Fireball_68x9_11: -314376130
-      Fireball_68x9_37: 1241949751
-      Fireball_68x9_55: -378140115
+      Fireball_68x9_23: 1459498677
+      Fireball_68x9_24: -357323799
+      Fireball_68x9_25: 1885036571
+      Fireball_68x9_26: 439514550
+      Fireball_68x9_27: 1901448268
       Fireball_68x9_28: 996509287
-      Fireball_68x9_54: -557311683
-      Fireball_68x9_10: -1819228345
-      Fireball_68x9_51: 1155428994
-      Fireball_68x9_59: 874964206
+      Fireball_68x9_29: -101782084
+      Fireball_68x9_3: -1222210793
+      Fireball_68x9_30: -2040003890
+      Fireball_68x9_31: -960346614
+      Fireball_68x9_32: 1652577144
+      Fireball_68x9_33: -790508898
+      Fireball_68x9_34: 1456362611
+      Fireball_68x9_35: -1163327211
+      Fireball_68x9_36: 12084854
+      Fireball_68x9_37: 1241949751
+      Fireball_68x9_38: -781867877
+      Fireball_68x9_39: -1377950483
+      Fireball_68x9_4: -1054120684
+      Fireball_68x9_40: -361222819
+      Fireball_68x9_41: -2121961962
+      Fireball_68x9_42: -1920696703
+      Fireball_68x9_43: 2132884060
+      Fireball_68x9_44: 314049031
       Fireball_68x9_45: -137334753
+      Fireball_68x9_46: -632135005
       Fireball_68x9_47: 1301640216
-  spritePackingTag: 
+      Fireball_68x9_48: -1991947745
+      Fireball_68x9_49: 1330871300
+      Fireball_68x9_5: 580089649
+      Fireball_68x9_50: 1095387410
+      Fireball_68x9_51: 1155428994
+      Fireball_68x9_52: -952333060
+      Fireball_68x9_53: 1510975141
+      Fireball_68x9_54: -557311683
+      Fireball_68x9_55: -378140115
+      Fireball_68x9_56: 1901425854
+      Fireball_68x9_57: 1669036747
+      Fireball_68x9_58: -296657779
+      Fireball_68x9_59: 874964206
+      Fireball_68x9_6: 500433450
+      Fireball_68x9_7: 628839529
+      Fireball_68x9_8: 1587062027
+      Fireball_68x9_9: 7904265
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

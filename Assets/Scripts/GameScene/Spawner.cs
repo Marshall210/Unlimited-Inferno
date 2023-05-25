@@ -1,4 +1,6 @@
 ﻿using UnityEngine;
+using System.Collections;
+using Unity.VisualScripting;
 
 public class Spawner : MonoBehaviour
 {
@@ -10,24 +12,16 @@ public class Spawner : MonoBehaviour
     public float spawnRadius = 5f; // радиус спавна огоньков
     public Transform firePosition;// player location for spawner
 
-    private float timer; // таймер для создания огоньков
+    private float _timer; // таймер для создания огоньков
 
-    private void Start()
-    {
-        //PPrefab = Instantiate(Prefab, new Vector2(0,0), Quaternion.identity) as GameObject;
-        //Destroy (Prefab);
-        //GetComponent<Renderer>(false);
-        //renderer.enabled = false;
-        //gameObject.GetComponent.enabled = false;
-    }
 
     void Update()
     {
-        timer += Time.deltaTime;
+        _timer += Time.deltaTime;
 
-        if (timer >= spawnTime)
+        if (_timer >= spawnTime)
         {
-            timer = 0f;
+            _timer = 0f;
 
             // Получение положения другого объекта
             Vector2 position = firePosition.position;

@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,6 +64,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -1399,69 +1401,68 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Small_Fireball_10x26_2: -2096162785
-      Small_Fireball_10x26_4: 1418853118
-      Small_Fireball_10x26_49: -1627608130
-      Small_Fireball_10x26_42: -1136330293
-      Small_Fireball_10x26_21: 20380255
-      Small_Fireball_10x26_54: -2068927040
-      Small_Fireball_10x26_37: 1033287098
-      Small_Fireball_10x26_29: -1400014411
-      Small_Fireball_10x26_35: -1855957553
-      Small_Fireball_10x26_52: -445606648
-      Small_Fireball_10x26_19: 1496604660
-      Small_Fireball_10x26_48: 50751686
-      Small_Fireball_10x26_45: 1791746183
-      Small_Fireball_10x26_53: 47811029
-      Small_Fireball_10x26_44: 1711967446
-      Small_Fireball_10x26_7: 1787439211
-      Small_Fireball_10x26_6: 128700034
-      Small_Fireball_10x26_22: 684048447
-      Small_Fireball_10x26_46: -1634533583
-      Small_Fireball_10x26_58: -336030276
-      Small_Fireball_10x26_10: -585766623
-      Small_Fireball_10x26_26: 1466211602
-      Small_Fireball_10x26_57: -1094031590
-      Small_Fireball_10x26_14: 1187565477
-      Small_Fireball_10x26_38: 144098901
-      Small_Fireball_10x26_1: -664465291
-      Small_Fireball_10x26_11: 2038663592
-      Small_Fireball_10x26_43: -1685123398
-      Small_Fireball_10x26_13: 1123797286
-      Small_Fireball_10x26_50: 1374895449
-      Small_Fireball_10x26_5: -476807072
-      Small_Fireball_10x26_32: -941649873
-      Small_Fireball_10x26_28: 458926502
-      Small_Fireball_10x26_34: -403380290
-      Small_Fireball_10x26_55: 1781524785
-      Small_Fireball_10x26_27: 1800283919
-      Small_Fireball_10x26_12: 1662262402
-      Small_Fireball_10x26_24: 1390840865
-      Small_Fireball_10x26_59: -897005012
-      Small_Fireball_10x26_41: 804050429
-      Small_Fireball_10x26_18: 797134473
-      Small_Fireball_10x26_20: 1176234535
-      Small_Fireball_10x26_23: -1377787859
-      Small_Fireball_10x26_47: -1390071068
-      Small_Fireball_10x26_36: -804354507
-      Small_Fireball_10x26_33: 1738722442
-      Small_Fireball_10x26_39: 1846998154
       Small_Fireball_10x26_0: -743489822
-      Small_Fireball_10x26_3: -1024187801
-      Small_Fireball_10x26_56: -139647941
-      Small_Fireball_10x26_25: -1806720050
-      Small_Fireball_10x26_31: 1775533811
-      Small_Fireball_10x26_8: 1634575403
+      Small_Fireball_10x26_1: -664465291
+      Small_Fireball_10x26_10: -585766623
+      Small_Fireball_10x26_11: 2038663592
+      Small_Fireball_10x26_12: 1662262402
+      Small_Fireball_10x26_13: 1123797286
+      Small_Fireball_10x26_14: 1187565477
       Small_Fireball_10x26_15: 786209449
-      Small_Fireball_10x26_17: -1223658728
       Small_Fireball_10x26_16: -252545852
-      Small_Fireball_10x26_51: 1563301578
-      Small_Fireball_10x26_9: 287286434
+      Small_Fireball_10x26_17: -1223658728
+      Small_Fireball_10x26_18: 797134473
+      Small_Fireball_10x26_19: 1496604660
+      Small_Fireball_10x26_2: -2096162785
+      Small_Fireball_10x26_20: 1176234535
+      Small_Fireball_10x26_21: 20380255
+      Small_Fireball_10x26_22: 684048447
+      Small_Fireball_10x26_23: -1377787859
+      Small_Fireball_10x26_24: 1390840865
+      Small_Fireball_10x26_25: -1806720050
+      Small_Fireball_10x26_26: 1466211602
+      Small_Fireball_10x26_27: 1800283919
+      Small_Fireball_10x26_28: 458926502
+      Small_Fireball_10x26_29: -1400014411
+      Small_Fireball_10x26_3: -1024187801
       Small_Fireball_10x26_30: -280051262
+      Small_Fireball_10x26_31: 1775533811
+      Small_Fireball_10x26_32: -941649873
+      Small_Fireball_10x26_33: 1738722442
+      Small_Fireball_10x26_34: -403380290
+      Small_Fireball_10x26_35: -1855957553
+      Small_Fireball_10x26_36: -804354507
+      Small_Fireball_10x26_37: 1033287098
+      Small_Fireball_10x26_38: 144098901
+      Small_Fireball_10x26_39: 1846998154
+      Small_Fireball_10x26_4: 1418853118
       Small_Fireball_10x26_40: 964648302
-  spritePackingTag: 
+      Small_Fireball_10x26_41: 804050429
+      Small_Fireball_10x26_42: -1136330293
+      Small_Fireball_10x26_43: -1685123398
+      Small_Fireball_10x26_44: 1711967446
+      Small_Fireball_10x26_45: 1791746183
+      Small_Fireball_10x26_46: -1634533583
+      Small_Fireball_10x26_47: -1390071068
+      Small_Fireball_10x26_48: 50751686
+      Small_Fireball_10x26_49: -1627608130
+      Small_Fireball_10x26_5: -476807072
+      Small_Fireball_10x26_50: 1374895449
+      Small_Fireball_10x26_51: 1563301578
+      Small_Fireball_10x26_52: -445606648
+      Small_Fireball_10x26_53: 47811029
+      Small_Fireball_10x26_54: -2068927040
+      Small_Fireball_10x26_55: 1781524785
+      Small_Fireball_10x26_56: -139647941
+      Small_Fireball_10x26_57: -1094031590
+      Small_Fireball_10x26_58: -336030276
+      Small_Fireball_10x26_59: -897005012
+      Small_Fireball_10x26_6: 128700034
+      Small_Fireball_10x26_7: 1787439211
+      Small_Fireball_10x26_8: 1634575403
+      Small_Fireball_10x26_9: 287286434
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

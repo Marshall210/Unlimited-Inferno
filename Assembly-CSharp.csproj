@@ -58,20 +58,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2023.1.0b17\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BackgroundController.cs" />
-    <Compile Include="Assets\Scripts\PlayerControll.cs" />
-    <Compile Include="Assets\Scripts\Spawner.cs" />
-    <Compile Include="Assets\Scripts\ScoreManager.cs" />
-    <Compile Include="Assets\Scripts\SpriteAnimator.cs" />
-    <Compile Include="Assets\Scripts\Coal.cs" />
-    <Compile Include="Assets\Scripts\StartGame.cs" />
-    <Compile Include="Assets\Other\Prefabs\PlayerOld.cs" />
-    <Compile Include="Assets\Scripts\FireController.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Trash\Score.cs" />
-    <Compile Include="Assets\Scripts\CameraFollower.cs" />
+    <Compile Include="Assets\Scripts\MenuScene\StartGame.cs" />
+    <Compile Include="Assets\Scripts\MenuScene\SettingSave.cs" />
+    <Compile Include="Assets\Scripts\MenuScene\SceneSwitcher.cs" />
+    <Compile Include="Assets\Scripts\GameScene\CameraFollower.cs" />
+    <Compile Include="Assets\Scripts\MenuScene\BackgroundController.cs" />
+    <Compile Include="Assets\Scripts\MenuScene\SaveSettingsButton.cs" />
+    <Compile Include="Assets\Trash\SpriteAnimator.cs" />
+    <Compile Include="Assets\Scripts\GameScene\FireController.cs" />
+    <Compile Include="Assets\Scripts\GameScene\Player.cs" />
+    <Compile Include="Assets\Scripts\MenuScene\PlayerControll.cs" />
+    <Compile Include="Assets\Scripts\GameScene\Pause.cs" />
+    <Compile Include="Assets\Trash\ScoreManager.cs" />
+    <Compile Include="Assets\Trash\CoalSizeCreation.cs" />
+    <Compile Include="Assets\Scripts\GameScene\Coal.cs" />
+    <Compile Include="Assets\Scripts\GameScene\Spawner.cs" />
+    <Compile Include="Assets\Scripts\GameScene\Score.cs" />
+    <Compile Include="Assets\Trash\PlayerOld.cs" />
     <Compile Include="Assets\Trash\PlayerControllFor3D.cs" />
-    <Compile Include="Assets\Scripts\Pause.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

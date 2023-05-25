@@ -7,12 +7,13 @@ public class FireController : MonoBehaviour
     public float maxWind = 5f; // максимальная сила ветра
     public float minWind = -5f; // минимальная сила ветра
 
-    private Rigidbody2D rb; // компонент физики огонька
+    private Rigidbody2D _rb; // компонент физики огонька
+    private int _score;
 
     void Start()
     {
         // получаем компонент Rigidbody2D объекта
-        rb = GetComponent<Rigidbody2D>();
+        _rb = GetComponent<Rigidbody2D>();
 
         // инициализируем начальные параметры огонька
         //transform.localScale = new Vector3(0.5f, 0.5f, 1f); // задаем размер огонька
@@ -25,7 +26,7 @@ public class FireController : MonoBehaviour
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
         Vector2 movement = new Vector2(moveHorizontal, moveVertical);
-        rb.AddForce(movement * speed);
+        _rb.AddForce(movement * speed);
 
         // меняем направление ветра и силу его воздействия
         windStrength += Random.Range(-0.1f, 0.1f);
@@ -33,6 +34,7 @@ public class FireController : MonoBehaviour
 
         // применяем силу ветра к огоньку
         Vector2 windForce = new Vector2(windStrength, 0);
-        rb.AddForce(windForce);
+        _rb.AddForce(windForce);
     }
+
 }
