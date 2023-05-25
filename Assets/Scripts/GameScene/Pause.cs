@@ -11,21 +11,27 @@ public class PauseMenu : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (isPaused)
-            {
-                Resume();
-            }
-            else
-            {
-                Pause();
-            }
+            PauseOr();
         }
+    }
+    public void PauseOr()
+    {
+        if (isPaused)
+        {
+            Resume();
+        }
+        else
+        {
+            Pause();
+        }
+        
     }
 
     public void Resume()
     {
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
+        AudioListener.pause = false;
         isPaused = false;
     }
 
@@ -33,6 +39,7 @@ public class PauseMenu : MonoBehaviour
     {
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
+        AudioListener.pause = true;
         isPaused = true;
     }
 
@@ -44,7 +51,7 @@ public class PauseMenu : MonoBehaviour
 
     public void QuitToMainMenu()
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("Menu");
         Time.timeScale = 1f;
     }
 }
