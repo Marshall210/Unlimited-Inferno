@@ -22,10 +22,10 @@ public class BackgroundController : MonoBehaviour
 
         // Повторение заднего фона по оси X
         float horizontalOffset = cameraPosition.x % backgroundWidth;
-        transform.position = new Vector3(transform.position.x - horizontalOffset, transform.position.y, transform.position.z);
+        transform.position = new Vector2(transform.position.x - horizontalOffset, transform.position.y);
 
         // Повторение заднего фона по оси Y
         float verticalOffset = cameraPosition.y % backgroundHeight;
-        transform.position = new Vector3(transform.position.x, transform.position.y - verticalOffset, transform.position.z);
+        transform.position = new Vector2(transform.position.x, transform.position.y - verticalOffset);
     }
 }
